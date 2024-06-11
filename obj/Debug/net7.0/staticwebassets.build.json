@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "i2ttaPG680hMuuNl1M/d0QC7f7jbHIAgpEo5nK6FWog=",
+  "Source": "TaskManagementMicroservice",
+  "BasePath": "_content/TaskManagementMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
